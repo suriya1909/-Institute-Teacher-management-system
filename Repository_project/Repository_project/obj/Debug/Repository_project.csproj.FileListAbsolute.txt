@@ -1,0 +1,14 @@
+D:\C#_Project\Repository_project\Repository_project\bin\Debug\Repository_project.exe.config
+D:\C#_Project\Repository_project\Repository_project\bin\Debug\Repository_project.exe
+D:\C#_Project\Repository_project\Repository_project\bin\Debug\Repository_project.pdb
+D:\C#_Project\Repository_project\Repository_project\obj\Debug\Repository_project.csproj.AssemblyReference.cache
+D:\C#_Project\Repository_project\Repository_project\obj\Debug\Repository_project.csproj.CoreCompileInputs.cache
+D:\C#_Project\Repository_project\Repository_project\obj\Debug\Repository_project.exe
+D:\C#_Project\Repository_project\Repository_project\obj\Debug\Repository_project.pdb
+D:\All Projects\C#_Project\Repository_project\Repository_project\bin\Debug\Repository_project.exe.config
+D:\All Projects\C#_Project\Repository_project\Repository_project\bin\Debug\Repository_project.exe
+D:\All Projects\C#_Project\Repository_project\Repository_project\bin\Debug\Repository_project.pdb
+D:\All Projects\C#_Project\Repository_project\Repository_project\obj\Debug\Repository_project.csproj.AssemblyReference.cache
+D:\All Projects\C#_Project\Repository_project\Repository_project\obj\Debug\Repository_project.csproj.CoreCompileInputs.cache
+D:\All Projects\C#_Project\Repository_project\Repository_project\obj\Debug\Repository_project.exe
+D:\All Projects\C#_Project\Repository_project\Repository_project\obj\Debug\Repository_project.pdb
